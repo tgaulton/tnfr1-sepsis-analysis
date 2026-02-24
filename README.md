@@ -14,12 +14,8 @@ R analysis code for: "Diabetes Mellitus and Atherosclerotic Cardiovascular Disea
 - `Fig4_chronic_elevation.R` - Baseline sTNFR1 elevation analysis
 - `Fig5_trajectories_combined.R` - Trajectory analysis
 
-## Supplementary Analysis
-- `unadjusted_interaction_main.R` - Unadjusted interaction models
-- `overall_unadjusted_HR.R` - Overall unadjusted hazard ratios
-
 ## Usage
-1. Run `master_2_12.R` first to generate the analysis dataset
+1. Run `master.R` first to generate the analysis dataset
 2. Run individual figure scripts as needed
 
 ## Data
